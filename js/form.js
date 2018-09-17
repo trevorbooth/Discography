@@ -1,0 +1,1 @@
+function myFunction(){alert("Thank you for signing up! You will receive an email soon.")}function change1(){document.getElementById("first_name").placeholder="Type first name here..."}function change2(){document.getElementById("last_name").placeholder="Type last name here..."}function change3(){document.getElementById("email").placeholder="Type email here..."}
